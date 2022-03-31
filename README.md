@@ -1,4 +1,18 @@
-# How to use
+# Examples
+
+#### cdp.php
+![NoParams](https://elwan.ch/github/cdp/cdp.php)
+#### cdp.php?hide
+![Hide](https://elwan.ch/github/cdp/cdp.php?hide)
+#### cdp.php?data=Vscode,Netbeans,Intellij,Atom,Eclipse
+![CustomData](https://elwan.ch/github/cdp/cdp.php?data=Vscode,Netbeans,Intellij,Atom,Eclipse)
+#### cdp.php?sc=00dd00&sw=5
+![Stroke](https://elwan.ch/github/cdp/cdp.php?sc=00dd00&sw=5)
+#### cdp.php?tc=ff0000&ts=15
+![Text](https://elwan.ch/github/cdp/cdp.php?tc=ff0000&ts=15)
+#### cdp.php?dc=100
+![Distance](https://elwan.ch/github/cdp/cdp.php?dc=100)
+# Params
 
 | PARAMS | DESCRIPTION          | DEFAULT VALUE               |
 |--------|----------------------|-----------------------------|
@@ -11,4 +25,9 @@
 | hide   | Hide circles         | false                       |
 | data   | The data to display  | python,php,javscript,nodejs |
 
-![test](https://elwan.ch/github/cdp/cdp.php?data=python%2Cjavascript%2Cnode%20js%2Cc%23&tc=dddddd&sw=5&sc=55ff55)
+# Install 
+
+Simply clone the repo, and put it on a web server that supports PHP.
+```bash
+git clone https://github.com/YungBricoCoop/circular-data-presentation.git
+```
