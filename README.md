@@ -11,4 +11,4 @@
 | hide   | Hide circles         | false                       |
 | data   | The data to display  | python,php,javscript,nodejs |
 
-![test](https://elwan.ch/github/cdp/cdp.php?data=python,javascript,node%20js,php&tc=ffffff&sc=ffffff&sw=10)
+![test](https://elwan.ch/github/cdp/cdp.php?data=python%2Cjavascript%2Cnode%20js%2Cc%23&tc=dddddd&sw=5&sc=55ff55)
